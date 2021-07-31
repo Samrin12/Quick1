@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+}
+header{
+
+border-bottom: 1px solid rgb(182, 176, 176);
+}
+.header-part{
+
+width: 90%;
+
+margin-left: 5%;
+
+margin-top: 10px;
+
+margin-bottom: 10px;
+margin-right: 5%;
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+nav{
+
+float: right;
+
+width: 50%;
+
+overflow: hidden;
+}
+nav ul{
+
+list-style: none;
+
+float: right;
+
+margin-top: 4px;
+overflow: hidden;
+
+}
+nav ul li{
+
+float: left;
+margin-left: 40px;
+}
+nav ul li a{
+
+text-decoration: none;
+
+color: black;
+
+font-size: larger;
+}
+.content{
+
+width: 70%;
+
+margin-left: 15%;
+
+margin-right: 15%;
+}
+.content h1{
+
+text-align: center;
+
+margin-top: 30px;
+
+font-size: 45px;
+
+color: #0F2656;
+}
+.content h2{
+
+text-align: center;
+
+font-size: 45px;
+
+color: #008AFF;
+
+margin-top: 20px;
+}
+.content p{
+
+text-align: center;
+
+margin-top: 20px;
+
+color: #0F265B;
+}
+.img{text-align: center;margin-top: 25px;}
+.img img{
+
+width: 60%;
+}
+.double-content{
+
+overflow: hidden;
+
+margin-bottom: 10px;
+}
+.first-content{
+
+width: 45%;
+
+float: left;
+
+margin-right: 5%;
+}
+.first-content h1{
+
+text-align: right;
+
+color: #F15767;
+}
+.first-content p{
+
+text-align: right;
+
+margin-top: 0px;
+
+color: #0F265B;
+}
+.second-content{
+    
+float: right;
+    
+width: 45%;
+    
+}
+.second-content h1{
+    
+text-align: left;
+    
+font-size: 46px;
+}
+.service{
+
+width: 74%;
+
+margin-left: 13%;
+
+overflow: hidden;
+
+margin-top: 50px;
+
+margin-bottom: 50px;
+
+height: 250px;
+}
+.service1{
+
+float: left;
+
+width: 30%;
+
+margin-right: 5%;
+
+background-color: #FDEBED;
+
+text-align: center;
+
+height: 100%;
+}
+.service1 img{
+    
+width: 75%;
+}
+.service1 h2{
+
+text-align: left;
+
+color: #183774;
+}
+.service1 p{
+
+text-align: left;
+
+color: #2E518B;
+
+padding-top: 15px;
+}
+.service2{
+
+float: left;
+
+margin-right: 5%;
+
+width: 30%;
+
+background-color: #EBF9F4;
+
+text-align: center;
+
+height: 100%;
+}
+.service2 img{
+
+width: 75%;
+}
+.service2 h2{
+
+text-align: left;
+
+color: #0F2656;
+}
+.service2 p{
+    
+text-align: left;
+    
+color: #0F2656;
+    
+padding-top: 15px;
+}
+.service3{
+
+float: left;
+
+width: 30%;
+
+height: 100%;
+
+text-align: center;
+
+background-color: #FFF7E8;
+}
+.service3 img{
+
+width: 75%;
+}
+.service3 h2{
+
+text-align: left;
+
+color: #0F2656;
+}
+.service3 p{
+    
+text-align: left;
+    
+color: #0F2656;
+    
+padding-top: 15px;
+}
+footer{
+
+text-align: center;
+
+background-color: #008AFF;
+
+height: 40px;
+
+padding: 20px 0px;
+}
+footer p{
+font-size: 20px;
+color: rgb(167, 161, 154);
+}
+footer p span{
+    color:white
+    ;
+    
+}
